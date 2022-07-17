@@ -31,7 +31,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-##Mock-up
+## Mock-up
 
 The following animation demonstrates the application functionality:
 
@@ -39,7 +39,7 @@ The following animation demonstrates the application functionality:
 
 
 
-##URL
+## URL
 
 
 https://dina-eissa.github.io/Work-Day-Scheduler/
